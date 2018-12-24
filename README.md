@@ -1,6 +1,6 @@
-# Project Title
+# 10 Days of GOLang
 
-One Paragraph of project description goes here
+For the next 10 days, learn the GO Programming language.
 
 ## Getting Started
 
