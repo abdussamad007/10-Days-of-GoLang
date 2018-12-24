@@ -1,20 +1,21 @@
-# Project Title
+# 10 Days of GOLang
 
-One Paragraph of project description goes here
+For the next 10 days, learn the GO Programming language.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+[Go Cheat Sheet](./CheatSheet.md)
+
+Cheat Sheets are handy. Lets have a glance how the Go langulage is looks like, basic building blocks and langulage fundamentals.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Fresh Mind! It will help you to learn a new langualge in 10 days which will be your 1st basecamp to learn programming Smart Contract in Blockchain.
 
-```
-Give examples
-```
+However, knowing other programing langualge will help you learn faster.
 
-### Installing
+
+### Day 1: Installing and IDE setup
 
 A step by step series of examples that tell you how to get a development env running
 
@@ -24,7 +25,26 @@ Say what the step will be
 Give the example
 ```
 
-And repeat
+### Day 2: Go Language Fundamentals (Packages, variables, and functions)
+Learn the basic components of any Go program.
+
+### Day 3: Go Flow control statements: for, if, else, switch and defer
+Learn how to control the flow of your code with conditionals, loops, switches and defers.
+
+### Day 4: Go More types: structs, slices, and maps.
+Learn how to define types based on existing ones: this lesson covers structs, arrays, slices, and maps.
+
+### Day 5: Go Methods and interfaces
+This lesson covers methods and interfaces, the constructs that define objects and their behavio
+
+### Day 6: Go Concurrency
+Go provides concurrency features as part of the core language.
+This module goes over goroutines and channels, and how they are used to implement different concurrency patterns.
+
+### Day 7: Go TBD
+### Day 8: Go TBD
+### Day 9: Go TBD
+### Day 10: GoTBD
 
 ```
 until finished
