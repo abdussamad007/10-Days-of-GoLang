@@ -4,15 +4,16 @@ For the next 10 days, learn the GO Programming language.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+[Go Cheat Sheet](./CheatSheet.md)
+
+Cheat Sheets are handy. Lets have a glance how the Go langulage is looks like, basic building blocks and langulage fundamentals.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Fresh Mind! It will help you to learn a new langualge in 10 days which will be your 1st basecamp to learn programming Smart Contract in Blockchain.
 
-```
-Give examples
-```
+However, knowing other programing langualge will help you learn faster.
+
 
 ### Installing
 
