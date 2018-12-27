@@ -17,13 +17,33 @@ However, knowing other programing langualge will help you learn faster.
 
 ### Day 1: Installing and IDE setup
 
-A step by step series of examples that tell you how to get a development env running
+Install Go on Ubuntu 18.04 is by using the apt command to install Go binaries from the Ubuntu's repository: 
 
-Say what the step will be
+$ sudo apt install golang
 
-```
-Give the example
-```
+This will install the latest traditional package which at the the time of writing is go version go1.10: 
+
+$ go version
+
+go version go1.10 linux/amd64
+
+Before we perform a test we first need to set GOPATH: 
+
+$ echo 'export GOPATH=$HOME/go' >> ~/.bashrc 
+
+$ echo 'export PATH=${PATH}:${GOPATH}/bin' >> ~/.bashrc 
+
+$ source ~/.bashrc 
+
+Perform a go command test with pre-compiled hello world: 
+
+$ go get github.com/golang/example/hello
+
+$ hello 
+
+Hello, Go examples
+
+
 
 ### Day 2: Go Language Fundamentals (Packages, variables, and functions)
 Learn the basic components of any Go program.
