@@ -43,6 +43,60 @@ $ hello
 
 Hello, Go examples
 
+=========NOW INSTALLATION IS COMPLETED========
+
+Now download and setup Eclipse IDE
+
+1. downlaod java 
+
+Switch to the root user.
+
+$sudo su -
+
+Update the system repository index.
+
+$apt update
+
+Install the wget package to download the Eclipse IDE from the internet over a terminal.
+
+$apt install wget
+
+Eclipse requires Java JDK to be available on your machine. You can either install Oracle JDK or OpenJDK.
+
+$apt install -y openjdk-8-jdk
+
+Verify the Java version on your machine.
+
+$java -version
+
+Output:
+
+openjdk version "1.8.0_162"
+
+OpenJDK Runtime Environment (build 1.8.0_162-8u162-b12-1-b12)
+
+OpenJDK 64-Bit Server VM (build 25.162-b12, mixed mode)
+
+Install Eclipse.
+
+We will be installing Eclipse using the snappy packaging system. To download and install the Eclipse snap package on your system, 
+type:
+
+$sudo snap install --classic eclipse
+
+On successful installation of Eclipse, you should see the following output:
+
+eclipse 4.8.0 from 'snapcrafters' installed
+
+Starting Eclipse
+
+Now that Eclipse is installed on your Ubuntu system you can start it by clicking on the Eclipse icon (Activities -> Eclipse):
+
+When you start Eclipse for the first time, a window like the following will appear asking you to select a Workspace directory:
+
+The default directory should be fine. Click Launch to proceed:
+
+
 
 
 ### Day 2: Go Language Fundamentals (Packages, variables, and functions)
