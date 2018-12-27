@@ -96,6 +96,12 @@ When you start Eclipse for the first time, a window like the following will appe
 
 The default directory should be fine. Click Launch to proceed:
 
+=====================NOW INSTALL GO PLUGIN IN ECLIPSE=====
+
+Please follow the instruction mentioned https://marketplace.eclipse.org/content/goclipse 
+
+
+Reference: https://linuxize.com/post/how-to-install-the-latest-eclipse-ide-on-ubuntu-18-04/
 
 
 
